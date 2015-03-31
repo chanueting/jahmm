@@ -5,7 +5,7 @@ JAHMM   -   QUICK START GUIDE
 Jahmm is a Java library implementing the various, well-known algorithms
 related to Hidden Makov Models (HMMs for short).
 
-The source code of the library is available; it is licensed under GPL
+The source code of the library is available; it is licensed under New BSD
 (see the resource/COPYING file).
 
 This library is short and simple.  It's been written for clarity.  It
